@@ -17,3 +17,28 @@ Azure Repos
 AWS Code Commit
 Gitea
 SourceForge
+
+
+Commands : 
+
+git config --global user.name ""
+git config --global user.email ""
+git config --global color.ui.auto
+
+git init 
+
+git remote add roigin repo_url
+
+git pull origin branch_name=main
+git status
+
+git add
+git status
+git commit -m "commit message"
+git push or git push --set-upstream origin master
+
+user to create a new branch and switch on that : 
+git checkout -b "branch_name"
+To switch the branch :
+git checkout branch_name
+
