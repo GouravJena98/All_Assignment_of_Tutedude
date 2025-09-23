@@ -1,0 +1,19 @@
+Git >> is Version Controls :
+v1
+v2
+v3 
+new developer create v4
+
+It is distributed 
+Collaborative
+Tracking changes
+Recovery
+
+GIt is supported by different types of Applications : 
+GitHub (We use here )
+GitLab
+BitBucket
+Azure Repos 
+AWS Code Commit
+Gitea
+SourceForge
